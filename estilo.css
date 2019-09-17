@@ -1,0 +1,19 @@
+.bg-light {
+    background-color: orange!important;
+}
+.foto{
+    height: 350px;
+    width: 100%;
+}
+.page-footer{
+    background: orange;
+}
+.logo{
+    height: 45px;
+}
+.carousel-item{
+    background-color: #ff7f00;
+}
+.img-fluid{
+    height: 100px;
+}
